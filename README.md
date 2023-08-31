@@ -1,20 +1,18 @@
 # BuddyPress Announcement Groups
-**Contributors:** ZealTyro, @mahedizaber51
-**Donate link:** [Patreon](https://patreon.com/zealtyro)
-**Tags:** buddypress, groups, announcement, moderation
-**Requires at least:** 4.6
-**Tested up to:** 6.3.1
-**Stable tag:** 1.0.0
-**License:** GPL-2.0
-**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
-Empower BuddyPress group administrators to create announcement-only groups where only moderators and administrators can post announcements.
+**Contributors:** ZealTyro, @mahedizaber51  
+**Tags:** buddypress, groups, announcement, moderation  
+**Requires at least:** 4.6  
+**Tested up to:** 6.3.1  
+**Stable tag:** 1.0.0  
+**License:** GPL-2.0  
+**License URI:** http://www.gnu.org/licenses/gpl-2.0.html
 
 ## Description
 
-BuddyPress Announcement Groups allows BuddyPress group administrators to create announcement-only groups. In these groups, only moderators and administrators can post announcements. This helps maintain a clear and focused communication channel within the group.
+**BuddyPress Announcement Groups** empowers BuddyPress group administrators to create announcement-only groups. In these groups, only moderators and administrators can post announcements, maintaining a clear and focused communication channel within the group.
 
-## Features:
+**Features:**
 
 - Create announcement-only groups during group creation and editing.
 - Set up a clear communication channel where only moderators and administrators can post.
@@ -29,7 +27,7 @@ BuddyPress Announcement Groups allows BuddyPress group administrators to create 
 
 ## Frequently Asked Questions
 
-**Can regular members post in announcement groups?**
+**Can regular members post in announcement groups?**  
 No, regular members cannot post in announcement groups. Only moderators and administrators can post announcements.
 
 ## Screenshots
@@ -39,13 +37,9 @@ No, regular members cannot post in announcement groups. Only moderators and admi
 
 ## Changelog
 
-= 1.0.0 =
-* Initial release.
+### 1.0.0
 
-## Upgrade Notice
-
-**1.0.0**
-Initial release.
+- Initial release.
 
 ## License
 
@@ -57,5 +51,5 @@ Developed by ZealTyro. Visit our website: [https://www.zealtyro.com](https://www
 
 ## Support and Contact
 
-For support or inquiries, please email: support@zealtyro.com
+For support or inquiries, please email: [support@zealtyro.com](mailto:support@zealtyro.com)  
 Plugin Home: [https://zealtyro.com/plugins/buddypress-announcement-groups](https://zealtyro.com/plugins/buddypress-announcement-groups)
