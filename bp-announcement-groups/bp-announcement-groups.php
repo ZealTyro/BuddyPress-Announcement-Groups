@@ -1,10 +1,10 @@
 <?php
 /*
-Plugin Name: BuddyPress Announcement Groups
+Plugin Name: BP Announcement Groups
 Plugin URI: https://www.zealtyro.com/plugins/announcement-groups/
 Author: ZealTyro
 Author URI: https://www.zealtyro.com/
-Description: BuddyPress Announcement Groups by ZealTyro empowers group administrators to create announcement-only groups, where only moderators and administrators can post announcements. This helps you maintain a clear and focused communication channel.
+Description: BP Announcement Groups by ZealTyro empowers BuddyPress group administrators to create announcement-only groups, where only moderators and administrators can post announcements. This helps you maintain a clear and focused communication channel.
 Version: 1.0.0
 */
 
