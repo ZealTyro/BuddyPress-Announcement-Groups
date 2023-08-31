@@ -1,4 +1,4 @@
-=== BuddyPress Announcement Groups ===
+**BuddyPress Announcement Groups**
 Contributors: ZealTyro, @mahedizaber51
 Donate link: [Patreon](https://patreon.com/zealtyro)
 Tags: buddypress, groups, announcement, moderation
