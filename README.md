@@ -30,11 +30,6 @@
 **Can regular members post in announcement groups?**  
 No, regular members cannot post in announcement groups. Only moderators and administrators can post announcements.
 
-## Screenshots
-
-1. Group creation/edit screen with the announcement group option.
-2. Example of an announcement group.
-
 ## Changelog
 
 ### 1.0.0
