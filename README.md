@@ -1,6 +1,6 @@
 # BuddyPress Announcement Groups
 
-**Contributors:** @mahedizaber51  
+**Contributors:** @MahediZaber51  
 **Tags:** buddypress, groups, announcement, moderation  
 **Requires at least:** 4.6  
 **Tested up to:** 6.3.1  
